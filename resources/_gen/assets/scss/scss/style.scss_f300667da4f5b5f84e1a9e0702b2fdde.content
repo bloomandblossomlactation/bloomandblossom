@@ -13,7 +13,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat", sans-serif;
   font-weight: 600;
-  color: #00113E; }
+  color: #FFFFFF; }
 
 p {
   font-size: 16px;
@@ -239,7 +239,7 @@ textarea.form-control {
     @media (max-width: 1200px) {
       .site-hero-content h1 {
         font-size: 50px;
-        margin-bottom: 50px; } }
+        margin-bottom: 50px;} }
     @media (max-width: 575px) {
       .site-hero-content h1 {
         font-size: 40px; } }
@@ -387,7 +387,7 @@ textarea.form-control {
         display: block;
         font-size: 30px;
         font-weight: 300;
-        color: #00113E;
+        color: white;
         margin-bottom: 20px; }
         @media (max-width: 767px) {
           .site-project-header-action span {

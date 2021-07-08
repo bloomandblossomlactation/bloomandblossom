@@ -1,39 +1,39 @@
 enable  : true
-title   : "OPINION FROM REAL PEOPLE"
+title   : "OPINIONS FROM REAL PEOPLE"
 subtitle: "What clients says about our services."
 testimonial_item :
   - thumb : "images/testimonial/user-thumb-one.jpg"
-    name  : "Simonns Hodge"
-    company_position: "CEO, Credito"
+    name  : "Example Person 1"
+    company_position: "Huntsville, AL"
     quote : > 
-            "Trust us we looked for a very long time and wasted thousands of dollars testing other teams, freelancers, and outsource companies." 
+            "(made up) Even though I was a new mom, I felt like I was supposed to know how to breast feed.  Without Tabitha's help I never would have gotten the assessment I needed to know my son was tongue tied." 
 
   - thumb : "images/testimonial/user-thumb-two.jpg"
-    name  : "Rekon Montino"
-    company_position: "CDO, Bulmuci"
+    name  : "Example Person 2"
+    company_position: "Huntsville, AL"
     quote : > 
-            "Roxo products have allowed us to deliver better support to all our clients. The agility with which we can implement new features and workflows is a key element." 
+            "(made up) On our second day in the hospital, I was at wit's end with my son. Tabith showed me how to calm him down, introduce him skin-to-skin, and let him lead feeding. We went from hours of tears to a happy baby in an hour." 
 
   - thumb : "images/testimonial/user-thumb-three.jpg"
-    name  : "Ryan Hillary"
-    company_position: "MD, Udilamo"
+    name  : "Example Person 3"
+    company_position: "Nashville, TN"
     quote : > 
-            "We’re a really busy restaurant, and roxo gives our customers a easy way to order, pay, and pick up their food so they can beat the line and beat that lunch rush." 
+            "(made up) Even though I didn't have any problems breastfeeding, just knowing Tabitha was there to answer questions gave me peace of mind." 
 
   - thumb : "images/testimonial/user-thumb-four.jpg"
-    name  : "Dockrel Kahn"
-    company_position: "PM, Walmet"
+    name  : "Example Person 4"
+    company_position: "Fairview, TN"
     quote : > 
-            "Trust us we looked for a very long time and wasted thousands of dollars testing other teams, freelancers, and outsource companies." 
+            "(made up) When I had questions, tabitha was there to answer.  It was those little conversations that made all the difference." 
 
   - thumb : "images/testimonial/user-thumb-five.jpg"
-    name  : "Orino Monteno"
-    company_position: "CEO, Axion"
+    name  : "Example Person 5"
+    company_position: "Dickson, TN"
     quote : > 
-            "Roxo products have allowed us to deliver better support to all our clients. The agility with which we can implement new features and workflows is a key element." 
+            "(made up) Ultimately for me, breastfeeding wasn't the right choice.  Tabitha understood and was non-judgemental.  That kind of individualized understanding is what I needed." 
 
   - thumb : "images/testimonial/user-thumb-six.jpg"
-    name  : "Welfo Roy"
-    company_position: "PDO, Komoyo"
+    name  : "Example Person 6"
+    company_position: "Dickson, TN"
     quote : > 
-            "We’re a really busy restaurant, and roxo gives our customers a easy way to order, pay, and pick up their food so they can beat the line and beat that lunch rush." 
+            "(made up) While breastfeeding was going great, pumping was not.  Tabitha assessed my situation and helped me find the nipple shields I needed to be a successful pumper!" 

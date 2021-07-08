@@ -1,14 +1,14 @@
 enable : true
-heading : "THE PROOF IS IN THE PUDDING!"
+heading : "Meeting the challenge to improve pediatric nursing outcomes."
 counter_item: 
-  - title: "Happy Clients"
-    number: "250"
+  - title: "TN infents ever breastfed"
+    number: "75.8"
 
-  - title: "Projects Completed"
-    number: "100"
+  - title: "TN children breast feeding at 6 months."
+    number: "48.7"
 
-  - title: "Cups of coffee"
-    number: "350"
+  - title: "TN children breast feeding exclusively at 6 months."
+    number: "27.2"
 
-  - title: "Telephone Talks"
-    number: "775"
+  - title: "TN breast feeding rate at 12 months."
+    number: "24.0"

@@ -1,8 +1,8 @@
 ---
 title: "About Us"
-date: 2018-07-12T18:19:33+06:00
-heading : "WE ARE ROXO DESIGN. AN AWARD-WINNING CREATIVE STUDIO IN FLORIDA."
-description : "We are specialized in developing forward-thinking brand identities, websites, illustration and animation for all types of customers. And we do this by bringing our customers through each phase of the design process with us."
+date: 2021-06-24T18:23:00-06:00
+heading : "Bloom and Blossom Lactation. A boutique lactation consulting service."
+description : "We focus on helping mothers and their families care for their babies.  We encourage breastfeeding, but understand it is not for everyone, helping breastfed, bottle fed, and formula fed babies alike."
 expertise_title: "Expertise"
-expertise_sectors: ["Customer Experience Design", "Digital Products", "Development", "Campaign & Content", "Employer Branding", "Animation & Motion Graphics", "Packaging & Product Design", "Retail & Spacial", "Print & Editorial Design", "Concept/Text", "Information Design"]
+expertise_sectors: ["Breastfeeding", "Pumping", "Pathology", "Skin to skin", "Baby-led feading", "Weighted feedings", "Nutrician", "Support system", "Paternal support", "Education", "Feeding assessments"]
 ---
