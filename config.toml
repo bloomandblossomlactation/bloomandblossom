@@ -116,4 +116,4 @@ summarylength = 25
       # Footer Service
       [params.footer.service]
         title       = "We help parents:"
-        description = "Determine if breast feeding is right for you.  Address breast feeding challenges.  Learn tips and tricks.  Support available when you need it."
+        description = "Determine if breast feeding is right for you.  Address breast feeding challenges.  Learn tips and tricks.  Support available when you need it. "
