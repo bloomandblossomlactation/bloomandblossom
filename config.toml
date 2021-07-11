@@ -1,6 +1,6 @@
-baseURL       = "http://example.org/"
+baseURL       = "https://bloomandblossomlactation.org/"
 languageCode  = "en-us"
-title         = "Roxo | Creative Design Agency"
+title         = "Bloom and Blossom Lactation"
 theme         = "roxo"
 summarylength = 25
 
