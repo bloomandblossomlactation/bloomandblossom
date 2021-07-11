@@ -7,4 +7,4 @@ category: ["PRODUCT LABEL"]
 project_images: ["images/projects/iStock-1215892497.jpeg", "images/projects/iStock-1257325764.jpeg"]
 ---
 
-A Weighted Feeding Consultation normally lasts 60 minutes and are performed in-home.  An IBCLC ceritifed lactation consultant will bring a hospital-grade portable baby scale to the house where they will conduct a weighted feeding to determine the amount of milk baby is receiving.  Following the feeding, the lactation consultant will assess the feeding against healthcare guidelines and discuss progress with mother as well as their personalized care plan.
+A Weighted Feeding consultation normally lasts 45-60 minutes and are performed in-home. An IBCLC certified lactation consultant will bring a hospital-grade portable baby scale to your home where they will conduct a weighted feeding to determine the amount of milk baby is receiving. Following the feeding, the lactation consultant will assess the feeding against healthcare guidelines and discuss progress with mother as well as their personalized care plan.
