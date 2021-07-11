@@ -1,7 +1,7 @@
 enable : true
 heading : "Meeting the challenge to improve pediatric nursing outcomes."
 counter_item: 
-  - title: "TN infents ever breastfed"
+  - title: "TN infants ever breastfed"
     number: "75.8"
 
   - title: "TN children breast feeding at 6 months."

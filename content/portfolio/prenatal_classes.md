@@ -1,5 +1,5 @@
 ---
-title: "Prenadal Breastfeeding Classes"
+title: "Prenatal Breastfeeding Classes"
 date: 2021-06-25T19:08:00-06:00
 type: portfolio
 image: "images/projects/iStock-1070025864.jpeg"

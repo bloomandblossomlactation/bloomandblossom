@@ -2,19 +2,19 @@ enable  : true
 title   : "OPINIONS FROM REAL PEOPLE"
 subtitle: "What clients says about our services."
 testimonial_item :
-  - thumb : "images/testimonial/user-thumb-one.jpg"
+  - thumb : "images/testimonial/user-thumb-one.jpeg"
     name  : "Whitney"
     company_position: "Huntsville, AL"
     quote : > 
             "Tabitha was such a HUGE help to me when I had my daughter! She is so knowledgeable, encouraging, and I always felt more at ease and equipped after talking with her." 
 
-  - thumb : "images/testimonial/user-thumb-two.jpg"
+  - thumb : "images/testimonial/user-thumb-two.jpeg"
     name  : "Joyce"
     company_position: "Hattiesburg, MS"
     quote : > 
             "Tabitha is a great resource for moms who are wanting to successfully breastfeed their children. Tabitha has been there for me as a first time mom and again with my second child. She builds relationships with her clients and provides them with the knowledge and confidence to help them along their breastfeeding journey." 
 
-  - thumb : "images/testimonial/user-thumb-three.jpg"
+  - thumb : "images/testimonial/user-thumb-three.jpeg"
     name  : "Kindall"
     company_position: "Nashville, TN"
     quote : > 
