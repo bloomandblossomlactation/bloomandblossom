@@ -91,8 +91,8 @@ summarylength = 25
     title               = "LET’S WORK TOGETHER"
     primary_button      = "Schedule an assessment"
     primary_button_url  = "contact"
-    secondary_button    = "Not Convinced"
-    secondary_button_url = "portfolio"
+    secondary_button    = "Pre-approve Insurance"
+    secondary_button_url = "https://go.lactationnetwork.com/BloomandBlossomLLC"
 
   [params.footer]
     # Footer Contact Info
@@ -115,5 +115,5 @@ summarylength = 25
           url  = "contact"
       # Footer Service
       [params.footer.service]
-        title       = "We help parents:"
-        description = "Determine if breast feeding is right for you.  Address breast feeding challenges.  Learn tips and tricks.  Support available when you need it. "
+        title       = "Insurance Information:"
+        description = "We accept most Blue Cross Blue Shield, Aetna, and Cigna PPO plans through <b><a href='https://go.lactationnetwork.com/BloomandBlossomLLC'>The Lactation Network</a></b>."
