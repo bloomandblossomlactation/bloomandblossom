@@ -1,5 +1,24 @@
 {{ define "main" }}
 
+<section class="site-project-header">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-8">
+        <div class="site-project-header-content">
+          <h1>
+            {{ .Params.accepted | markdownify }}
+          </h1>
+        </div>
+      </div>
+      <!--<div class="col-lg-4">
+        <a href="#project" class="site-project-header-action scroll-to">
+          <span>Scroll Down</span>
+          <img src="{{ "images/arrow-down.svg" | absURL }}" alt="arrow-down">
+        </a>
+      </div>//-->
+    </div>
+  </div>
+</section>
 
 <section class="site-expertise">
   <div class="container">
@@ -17,6 +36,27 @@
           <li>{{ . }}</li>
           {{ end }}
         </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="site-about-header">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="site-about-wrapper">
+          <div class="site-about-company">
+            <h1>
+              {{ .Params.heading }}
+            </h1>
+          </div>
+          <div class="site-about-description">
+            <p>
+              {{ .Description | markdownify }}
+            </p>
+          </div>
+        </div>
       </div>
     </div>
   </div>
