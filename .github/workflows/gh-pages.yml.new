@@ -19,6 +19,7 @@ jobs:
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
+          # NOTE: extended true required for scss build stuff
           extended: true
 
       - name: Build
