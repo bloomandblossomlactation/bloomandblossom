@@ -123,5 +123,4 @@ summarylength = 25
         description = "We accept most Blue Cross Blue Shield, Anthem, and Cigna PPO plans through <b><a href='https://go.lactationnetwork.com/BloomandBlossomLLC'>The Lactation Network</a></b>."
 
 
-### NOTE ON BUILDING: Deployment is done by a github actions workflow documented in 
-.github/workflow/gh-pages.yml.  Pushing to github deploys the page.
+### NOTE ON BUILDING: Deployment is done by a github actions workflow documented in .github/workflow/gh-pages.yml.  Pushing to github deploys the page.
