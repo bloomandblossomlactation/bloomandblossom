@@ -54,8 +54,8 @@ summarylength = 25
       value = "in_home"
       title  = "In-Home Consultation"
     [[params.contactForm.projectType]]
-      value = "prenadal"
-      title  = "Prenadal Classes"
+      value = "prenatal"
+      title  = "Prenatal Classes"
     [[params.contactForm.projectType]]
       value = "telehealth"
       title  = "Telehealth Consultation"
